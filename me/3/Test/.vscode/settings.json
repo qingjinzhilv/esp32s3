@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "guider_fonts.h": "c",
+        "lv_font.h": "c",
+        "ui.h": "c",
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "new": "cpp"
+    }
+}

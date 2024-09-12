@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "guider_fonts.h": "c",
+        "lv_font.h": "c",
+        "ui.h": "c",
+        "functional": "cpp"
+    }
+}
