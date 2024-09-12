@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp8266_fans"
+		},
+		{
+			"name": "aliyun_iot",
+			"path": "../aliyun_iot"
+		}
+	],
+	"settings": {}
+}

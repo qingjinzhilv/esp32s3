@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp"
+    },
+    "idf.portWin": "COM14"
+}
